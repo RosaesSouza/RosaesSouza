@@ -6,10 +6,10 @@ Olá! Seja bem-vindo(a) ao meu perfil.
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=RosaesSouza&locale=pt-br&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" alt="GitHub Streak" height="126" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaesSouza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" alt="Top Langs" height="126" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaesSouza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" alt="Top Langs" height="150" />
 </p>
 
 ---
@@ -21,9 +21,6 @@ Olá! Seja bem-vindo(a) ao meu perfil.
 </p>
 
 ---
-
-## Animação
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/RosaesSouza/Readme/output/snake.svg" alt="Snake animation" />
 </p>
