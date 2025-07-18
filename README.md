@@ -10,7 +10,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaesSouza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph" />
     </div>
     
-    <div style="text-align: center;">
+  <div style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
