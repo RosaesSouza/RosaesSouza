@@ -1,4 +1,4 @@
-# Readme
+# Readme #
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RosaesSouza&locale=pt-br&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
